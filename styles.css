@@ -1,0 +1,19 @@
+/* Custom CSS styles */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  padding: 20px 0;
+}
+
+section {
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+  text-align: center;
+}
