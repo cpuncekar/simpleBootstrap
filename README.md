@@ -1,5 +1,3 @@
-# simpleBootstrap
-
 # Business Insurance Company Website Template
 
 Welcome to the Business Insurance Company website template! 🏢✨ This template is designed to help businesses showcase their insurance services in a professional and sleek manner.
